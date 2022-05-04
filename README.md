@@ -31,5 +31,6 @@
   ## Activity
 <p align="center">
     <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/3559?logoColor=white%26project=%26recentMS=0%26showProject=false">
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </p>
+
+    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
