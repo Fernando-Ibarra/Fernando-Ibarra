@@ -25,7 +25,7 @@
  <a href="https://www.linkedin.com/in/fernando-gait%C3%A1n-ibarra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://feribarra27.blogspot.com/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a> 
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Fernando-Ibarra/Fernando-Ibarra/blob/output/github-contribution-grid-snake.svg)
 </div>
 
   ## Activity
