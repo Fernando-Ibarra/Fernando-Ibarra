@@ -1,4 +1,4 @@
-### ¡Hi!, I'm Fernando Ibarra, student of Electronic engineering on Universidad de San Carlos de Guatemala.
+### ¡Hi!, I'm Fernando Ibarra, student engineering on Universidad de San Carlos de Guatemala.
 
 <div align="center">
   <a href="https://github.com/Fernando-Ibarra">
